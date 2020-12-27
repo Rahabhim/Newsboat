@@ -1,2 +1,3 @@
 browser sensible-browser
 refresh-on-startup yes
+save-path "~/Documents/Newsboat-texts"
